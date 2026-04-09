@@ -4,4 +4,5 @@ syntax on
 set mouse=a
 set number
 set relativenumber
-
+set background=dark
+set pastetoggle=<F2>
